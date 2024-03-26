@@ -18,8 +18,6 @@ The project is divided into several key sections:
    - Creating table schemas and a PostgreSQL database (crowfunding_db_schema.sql).
    - Importing CSV data into the database.
 
-## Getting Started
-
 ### Prerequisites
 
 - Python 3.x
